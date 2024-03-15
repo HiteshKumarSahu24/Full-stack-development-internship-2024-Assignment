@@ -34,7 +34,7 @@ export const App = () => {
       categories: Object.keys(hotel),
     },
     title: {
-      text: 'Product Trends by Month',
+      text: 'Requests per Hotel',
       align: 'center'
     },
   };

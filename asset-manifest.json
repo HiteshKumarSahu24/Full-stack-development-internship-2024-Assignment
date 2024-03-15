@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Full-stack-development-internship-2024-Assignment/static/css/main.46639be5.css",
+    "main.js": "/Full-stack-development-internship-2024-Assignment/static/js/main.1a3be8ba.js",
+    "static/js/453.d1ead18a.chunk.js": "/Full-stack-development-internship-2024-Assignment/static/js/453.d1ead18a.chunk.js",
+    "index.html": "/Full-stack-development-internship-2024-Assignment/index.html",
+    "main.46639be5.css.map": "/Full-stack-development-internship-2024-Assignment/static/css/main.46639be5.css.map",
+    "main.1a3be8ba.js.map": "/Full-stack-development-internship-2024-Assignment/static/js/main.1a3be8ba.js.map",
+    "453.d1ead18a.chunk.js.map": "/Full-stack-development-internship-2024-Assignment/static/js/453.d1ead18a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46639be5.css",
+    "static/js/main.1a3be8ba.js"
+  ]
+}
